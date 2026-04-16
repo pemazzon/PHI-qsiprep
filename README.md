@@ -1,4 +1,4 @@
-## BCBToolKit
+## qsiprep
 
 This integrates PennLinc qsiprep ( https://qsiprep.readthedocs.io ) into PHI.
 
